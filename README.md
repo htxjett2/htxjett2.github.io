@@ -30,15 +30,3 @@ Or, with Node.js installed, install http-server once and run it:
 ```powershell
 npx http-server -p 8000
 ```
-
-Next steps & suggestions
-
-- Add real images/screenshots of your server in a gallery section.
-- Add a smaller favicon and update meta tags for sharing (Open Graph / Twitter cards).
-- If you want multi-page site (rules, staff, application forms), add pages and update nav links.
-
-If you'd like, I can:
-
-- Replace the placeholder with a polished logo layout once you upload the logo.
-- Add a rules page or an applications form.
-- Generate a deploy-ready configuration (Netlify, Vercel, GitHub Pages).
